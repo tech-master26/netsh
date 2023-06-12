@@ -1,5 +1,8 @@
 # Wi-Fi Password Viewer
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=10&pause=10&color=F70C22&background=000000&center=true&vCenter=true&width=250&lines=NETSH)](https://git.io/typing-svg)
+
 This script allows you to view the saved Wi-Fi passwords on your Windows PC using the netsh command.
 
 ## Prerequisites
