@@ -39,7 +39,10 @@ This script allows you to view the saved Wi-Fi passwords on your Windows PC usin
 
 This script is released under the [Basic Hacker](https://youtube.com/@BasicHacker26/).
 
-
+### Support Please
+ 
+[![](https://img.shields.io/youtube/channel/subscribers/UCBVJrEUuLJqiyzh1kx1OOUA?label=SUBSCRIBE&style=social)](https://www.youtube.com/channel/UCBVJrEUuLJqiyzh1kx1OOUA)
+[![](https://img.shields.io/badge/Facebook-Blue?logo=Facebook&logoColor=white&labelColor=blue)](https://www.facebook.com/romantic.lover26)
 
 
 
